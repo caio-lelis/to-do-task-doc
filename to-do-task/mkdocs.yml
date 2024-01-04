@@ -1,0 +1,22 @@
+site_name: To-do Task
+
+theme:
+
+    name: simple-blog
+    site_name_style: overline
+
+    components:
+      site_name: true
+    colors:
+      primary: blue
+      tittle: red
+  
+nav:
+  - Home: index.md
+  
+  - Ferramentas:
+    - Ferramentas Utilizadas: ferramentas/ferramentas.md
+    - Extensões Utilizadas: ferramentas/extensoes.md
+  
+  - Etapas do Projeto:
+    - Primeira Etapa: passo a passo/primeira parte.md
