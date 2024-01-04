@@ -1,4 +1,5 @@
 site_name: To-do Task
+repo_url: https://github.com/caio-lelis/to-do-task-doc
 
 theme:
 
@@ -16,7 +17,7 @@ nav:
   
   - Ferramentas:
     - Ferramentas Utilizadas: ferramentas/ferramentas.md
-    - Extensões Utilizadas: ferramentas/extensoes.md
+    - Extensões Utilizadas: ferramentas/extensoes.mds
   
   - Etapas do Projeto:
     - Primeira Etapa: passo a passo/primeira parte.md
