@@ -2,6 +2,8 @@
 
 Para o desenvolvimento da aplicação Web se fez necessária a utilização de algumas ferramentas, que serão apresentadas a seguir.
 
+---
+
 ## Ferramentas:
 
 
